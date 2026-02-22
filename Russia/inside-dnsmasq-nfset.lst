@@ -2,6 +2,7 @@ nftset=/.io/4#inet#fw4#vpn_domains
 nftset=/.ai/4#inet#fw4#vpn_domains
 nftset=/play.google.com/4#inet#fw4#vpn_domains
 nftset=/xda-developers.com/4#inet#fw4#vpn_domains
+nftset=/pixeldrain.com/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/4pda.to/4#inet#fw4#vpn_domains
